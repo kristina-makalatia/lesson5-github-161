@@ -1,0 +1,34 @@
+/*first section styles*/
+.container {
+	width: 1088px;
+	margin: 0 auto;
+	background: lightblue;
+}
+.left-block {
+	width: 536px;
+	height: 190px;
+	background: yellow;
+	display: inline-block;
+	margin-right: 16px;
+	margin-top: 50px;
+}
+.right-block {
+	width: 536px;
+	height: 190px;
+	background: hsl(156, 100%, 50%);
+	display: inline-block;
+}
+.text-block {
+	display: inline-block;
+	width: 260px;
+	background: rgb(179, 179, 179);
+	vertical-align: middle;
+}
+.image-block {
+	vertical-align: middle;
+}
+.section-description {
+	font-size: 42px;
+	 font-family: 'Poppins';
+	 width: 498px;
+}
